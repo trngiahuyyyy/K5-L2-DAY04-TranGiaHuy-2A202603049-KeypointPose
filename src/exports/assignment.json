@@ -1,0 +1,43 @@
+{
+ "mssv": "202603049",
+ "ten": "TranGiaHuy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "trngiahuyyy",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000196283.jpg",
+  "000000241837.jpg",
+  "000000261732.jpg",
+  "000000429594.jpg",
+  "000000147780.jpg",
+  "000000189365.jpg",
+  "000000324953.jpg",
+  "000000210604.jpg",
+  "000000431988.jpg",
+  "000000253584.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_232598.jpg",
+  "face_380639.jpg",
+  "face_505385.jpg",
+  "face_79591.jpg",
+  "face_342273.jpg",
+  "face_256814.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 3,
+   "job_id": 3,
+   "task_name": "persons-TranGiaHuy"
+  },
+  "faces": {
+   "task_id": 4,
+   "job_id": 4,
+   "task_name": "faces-TranGiaHuy"
+  }
+ }
+}
