@@ -8,7 +8,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 
 - Họ tên: Trần Gia Huy
 - MSSV: 2A202603049
-- Email: trngiahuyyy@gmail.com
+- Email: 26ai.huytg2@vinuni.edu.vn
 - Link repository: https://github.com/trngiahuyyyy/K5-L2-DAY04-TranGiaHuy-2A202603049-KeypointPose
 - Phiên bản CVAT (Help → About): 2.82.1
 - Máy: hệ điều hành Window · RAM 16 GB · chạy CVAT chế độ đầy đủ
